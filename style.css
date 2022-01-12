@@ -1,0 +1,59 @@
+html, body {
+    margin: 0;
+  }
+  
+  html {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    height: 100%;
+  }
+  
+  body {
+    overflow: hidden;
+    height: inherit;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    letter-spacing: -1px;
+    position: absolute;
+    margin: 0;
+    top: -4px;
+    right: 5px;
+  
+    color: transparent;
+    text-shadow: 0 0 4px white;
+    margin-top: 25px;
+  }
+
+  p {
+    font-size: 2rem;
+    letter-spacing: -1px;
+    position: absolute;
+    margin: 0;
+    top: -4px;
+    right: 5px;
+  
+    color: transparent;
+    text-shadow: 0 0 4px white;
+    margin-top: 60px;
+  }
+
+  button {
+    background-color: cadetblue;
+    color: cornsilk;
+    padding: 5px 10px;
+    display: inline block;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+
+  .ex {
+    margin: 0 auto;
+  }
+
+  .back {
+    background-color: black;
+  }
